@@ -1,0 +1,6 @@
+Revision history for Perl extension Linux::Spidev.
+
+0.01  Sat Oct 20 16:27:13 2018
+	- original version; created by h2xs 1.23 with options
+		-A -n Linux::Spidev
+

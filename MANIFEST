@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+ppport.h
+README
+Spidev.xs
+t/Linux-Spidev.t
+lib/Linux/Spidev.pm
